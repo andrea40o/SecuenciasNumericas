@@ -1,0 +1,2 @@
+# SecuenciasNumericas
+Ejercicio secuencias numericas
